@@ -1,7 +1,7 @@
 # 💫 About Me :
 I'm currently working on my personal projects
 
-## 🌐 Socials
+# 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/marc-garcía-teodoro-3bab44208) 
 
 # 💻 Tech Stack
