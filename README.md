@@ -1,5 +1,5 @@
 # 💫 About Me
-I'm currently working on my personal projects
+Passionate developer in continuous learning, specialized in task automation through generative AI and currently focused on Swift. I'm enthusiastic about tech challenges, sharing knowledge, and exploring new tools to simplify everyday development.
 
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/marc-garcía-teodoro-3bab44208) 
