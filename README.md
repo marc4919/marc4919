@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Marc GT
 
-### Passionate Developer | Swift Enthusiast | AI Automation Specialist | Vision Pro Enthusiast
+### Passionate Developer | Swift Developer | AI Automation Specialist | Vision Pro Enthusiast
 
 </div>
 
